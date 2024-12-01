@@ -1,17 +1,41 @@
-👋 Hi, I’m **Mohamed Yousry Abouelhoda**, a passionate Software Engineer based in Nasr City, Cairo, Egypt. I specialize in **Oracle development** and have a strong background in full-stack development.
+# 👋 Hello, I'm Mohamed Yousry Abouelhoda  
 
-### 🚀 About Me:
-- 🎓 Currently pursuing a postgraduate diploma in Computer Science from Cairo University.
-- 💻 Proficient in **Oracle APEX**, Oracle Forms, and Reports development, with experience in SQL, PL/SQL, JavaScript, HTML, CSS, and jQuery.
-- 🌐 Experienced in building applications using **React.js**, **Next.js**, and **Node.js**.
-- 📱 Developed mobile apps for iOS, including interactive games and e-commerce platforms.
+**Aspiring Backend Developer | Computer Science Enthusiast | Problem Solver**  
 
-### 🌟 Projects:
-- **Omexa Italia**: A MERN stack e-commerce app with a comprehensive dashboard.
-- **Salamty iOS App**: Developed from scratch with engaging games like painting and puzzles.
-- **Deal Not Deal App**: Enhanced features and improved performance for a better user experience.
+Welcome to my GitHub! I am a passionate software developer with a focus on backend development and a solid foundation in computer science principles. My goal is to build efficient, scalable, and secure systems that make an impact.  
 
-### 💬 Let's Connect:
-I'm currently freelancing and looking for new opportunities in Oracle development and backend engineering. Feel free to reach out for collaboration or just to chat about technology!
+---
 
-🔗 [moyousryabouelhoda.me](https://moyousryabouelhoda.me)
+## 🚀 About Me  
+- 🎓 **Education:** Postgraduate Diploma in Computer Science, Cairo University.  
+- 💻 **Experience:** Freelance software developer with expertise in backend systems and database management.  
+- 🛠️ **Skills:**  
+  - Backend Development: API design, system architecture, and database optimization.  
+  - Core Computer Science: Algorithms, data structures, and system design.  
+  - Collaborative Development: Problem-solving and team-oriented coding practices.  
+- 🌱 **Currently Learning:** Advanced Java for backend systems and modern development best practices.  
+
+---
+
+## 🔧 Tools & Technologies  
+- **Programming Languages:** Java, C/C++, SQL, PL/SQL, JavaScript.
+- **Databases:** Relational (Oracle, PostgreSQL, MySQL) & Non-relational (MongoDB).  
+- **Version Control:** Git and GitHub for collaborative and open-source contributions.  
+
+---
+
+## 🌟 Highlights  
+- Developed multiple applications across mobile, web, and backend platforms.  
+- Active contributor to open-source projects and collaborative software development.  
+- ACM ECPC participant and passionate about competitive programming.  
+
+---
+
+## 📫 Connect with Me  
+- **Portfolio:** [moyousryabouelhoda.me](https://moyousryabouelhoda.me)  
+- **LinkedIn:** [linkedin.com/in/moyousryabouelhoda](https://linkedin.com/in/moyousryabouelhoda)  
+- **Email:** [contact@moyousryabouelhoda.me](mailto:contact@moyousryabouelhoda.me)  
+
+---
+
+Feel free to explore my repositories and projects. I’m always open to feedback, collaboration, and new opportunities. Let’s innovate and grow together! 🚀  
