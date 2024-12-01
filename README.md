@@ -9,8 +9,8 @@ Welcome to my GitHub! I am a passionate software developer with a focus on backe
 
 ## 🚀 About Me  
 - 🎓 **Education:**
-      - Postgraduate Diploma in Computer Science, Cairo University.
-      - Bachelor of Computer Science, October 6 University.  
+  - Postgraduate Diploma in Computer Science, Cairo University.
+  - Bachelor of Computer Science, October 6 University.  
 - 💻 **Experience:** Freelance software developer with expertise in backend systems and database management.  
 - 🛠️ **Skills:**  
   - Backend Development: API design, system architecture, and database optimization.  
