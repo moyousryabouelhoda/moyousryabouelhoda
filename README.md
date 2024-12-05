@@ -1,5 +1,4 @@
 # 👋 Hello, I'm Mohamed Yousry Abouelhoda  
-![Profile Views](https://komarev.com/ghpvc/?username=moyousryabouelhoda&color=blue)
 
 **Aspiring Backend Developer | Computer Science Enthusiast | Problem Solver**  
 
