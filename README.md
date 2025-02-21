@@ -1,8 +1,8 @@
 # HI, I'm Mohamed Yousry Abouelhoda  
 
-**Aspiring Software Engineer | Computer Science Enthusiast | Problem Solver**  
+**Software Engineer | Computer Science Enthusiast | Problem Solver**  
 
-Welcome to my GitHub! I am a passionate software developer with a strong foundation in computer science principles. For me, it's not about the programming language or tech stack—it's all about logic, problem-solving, and building impactful solutions!
+Welcome to my GitHub! I am a passionate software engineer with a strong foundation in computer science principles. For me, it's not about the programming language or tech stack—it's all about logic, problem-solving, and building impactful solutions!
 
 About Me  
 ---
