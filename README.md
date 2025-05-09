@@ -17,7 +17,7 @@ About Me
 
 **Tools & Technologies:**
 - **Programming Languages:** Java, C/C++, SQL, PL/SQL, JavaScript.
-- **Databases:** Relational (Oracle, MySQL, Sqlite)
+- **Databases:** Relational (Oracle, MySQL)
 - **Version Control:** Git and GitHub for collaborative and open-source contributions.
 
 ## 🌟 Highlights  
