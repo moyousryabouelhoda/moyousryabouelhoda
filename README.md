@@ -13,7 +13,8 @@ About Me
 **Skills:**  
 - Backend Development: API design, system architecture, and database optimization.  
 - Core Computer Science: Algorithms, data structures, OOP, solid princepiles, and system design.  
-- Collaborative Development: Problem-solving and team-oriented coding practices.  
+- Collaborative Development: Problem-solving and team-oriented coding practices.
+- Languages: English (Full Professional Proficiency), Arabic (Native/Bilingual Proficiency).
 
 **Tools & Technologies:**
 - **Programming Languages:** Java, C/C++, SQL, PL/SQL, JavaScript.
