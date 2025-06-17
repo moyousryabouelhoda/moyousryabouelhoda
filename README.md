@@ -8,7 +8,7 @@ About Me
 ---
 **Education:**
 - Postgraduate Diploma in Computer Science, Cairo University.
-- Bachelor of Computer Science, October 6 University.
+- Bachelor of Computer Science, 6th of October University.
 
 **Skills:**  
 - Backend Development: API design, system architecture, and database optimization.  
